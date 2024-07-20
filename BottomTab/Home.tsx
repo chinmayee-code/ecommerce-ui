@@ -24,10 +24,7 @@ import {
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import Fontisto from 'react-native-vector-icons/Fontisto';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
-import {
-  grey200,
-  purple900,
-} from 'react-native-paper/lib/typescript/src/styles/themes/v2/colors';
+
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import Feather from 'react-native-vector-icons/Feather';
 import ImageWithStatics from 'native-base/lib/typescript/components/primitives/Image';
